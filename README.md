@@ -34,9 +34,10 @@ L'analyse des données révèle des variations importantes dans la satisfaction 
 
 •	Salaire : Le niveau de satisfaction concernant la rémunération se situe à 5,6/10, indiquant que beaucoup de professionnels estiment que leurs salaires ne reflètent pas leurs compétences ou responsabilités.
 
-3. Difficulté à Entrer dans le Domaine de la Donnée:
+2. Difficulté à Entrer dans le Domaine de la Donnée:
 Plus de 50 % des répondants ont trouvé difficile ou très difficile d'accéder à des postes dans la science des données. Cette difficulté est plus prononcée pour les professionnels sans formation technique initiale, ce qui souligne la nécessité d'une formation continue et de certifications spécifiques.
-4. Priorités pour un Nouvel Emploi
+
+3. Priorités pour un Nouvel Emploi
 Les principales priorités pour les professionnels à la recherche d'un nouvel emploi sont :
 
 •	Télétravail : Pour 35 % des participants, la possibilité de travailler à distance est un facteur déterminant.
@@ -45,7 +46,7 @@ Les principales priorités pour les professionnels à la recherche d'un nouvel e
 
 •	Salaire : Bien que le salaire soit toujours un facteur important, il arrive en troisième position avec 25 % des réponses, derrière les préoccupations liées à la flexibilité et à l'équilibre de vie.
 
-6. Profil Démographique
+4. Profil Démographique
 L'enquête montre une répartition démographique intéressante :
 
 •	Sexe : 70 % des répondants sont des hommes, contre 30 % de femmes, ce qui reflète un déséquilibre persistant dans ce domaine.
