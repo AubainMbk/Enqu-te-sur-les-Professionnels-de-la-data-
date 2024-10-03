@@ -10,7 +10,9 @@ Ce projet d’analyse est basé sur une enquête menée auprès de professionnel
 
 ## Outils Utilisés
 •	Microsoft Excel : Prétraitement des données d'enquête et nettoyage des données.
+
 •	Power BI : Création de tableaux de bord interactifs pour la visualisation des résultats.
+
 •	GitHub : Partage et gestion du projet pour faciliter la collaboration et l’accès aux résultats.
 
 ## Démarche Analytique
@@ -22,20 +24,31 @@ Ce projet d’analyse est basé sur une enquête menée auprès de professionnel
 ## Résultats Clés
 1. Satisfaction Professionnelle
 L'analyse des données révèle des variations importantes dans la satisfaction des professionnels, notamment :
+
 •	Gestion : La satisfaction moyenne vis-à-vis du management est de 6,8/10, avec une majorité des répondants se déclarant modérément satisfaits.
+
 •	Mobilité Interne : Une satisfaction moyenne de 5,4/10 montre que les professionnels perçoivent peu d'opportunités de progression au sein de leurs entreprises actuelles.
+
 •	Salaire : Le niveau de satisfaction concernant la rémunération se situe à 5,6/10, indiquant que beaucoup de professionnels estiment que leurs salaires ne reflètent pas leurs compétences ou responsabilités.
-2. Difficulté à Entrer dans le Domaine de la Donnée
+
+3. Difficulté à Entrer dans le Domaine de la Donnée
 Plus de 50 % des répondants ont trouvé difficile ou très difficile d'accéder à des postes dans la science des données. Cette difficulté est plus prononcée pour les professionnels sans formation technique initiale, ce qui souligne la nécessité d'une formation continue et de certifications spécifiques.
-3. Priorités pour un Nouvel Emploi
+4. Priorités pour un Nouvel Emploi
 Les principales priorités pour les professionnels à la recherche d'un nouvel emploi sont :
+
 •	Télétravail : Pour 35 % des participants, la possibilité de travailler à distance est un facteur déterminant.
+
 •	Équilibre vie professionnelle/vie personnelle : Près de 30 % des professionnels estiment que cet aspect est crucial dans leur décision de changer d’emploi.
+
 •	Salaire : Bien que le salaire soit toujours un facteur important, il arrive en troisième position avec 25 % des réponses, derrière les préoccupations liées à la flexibilité et à l'équilibre de vie.
-4. Profil Démographique
+
+6. Profil Démographique
 L'enquête montre une répartition démographique intéressante :
+
 •	Sexe : 70 % des répondants sont des hommes, contre 30 % de femmes, ce qui reflète un déséquilibre persistant dans ce domaine.
+
 •	Tranche d’âge : La majorité des professionnels sont âgés de 25 à 40 ans, ce qui correspond à une population active jeune et dynamique.
+
 •	Régions : La majorité des participants viennent d’Amérique du Nord (États-Unis et Canada), avec une représentation significative d'autres régions telles que l'Asie et l'Afrique.
 
 ## Tableau de Bord Interactif
@@ -44,9 +57,13 @@ Un tableau de bord interactif a été conçu avec Power BI pour permettre aux pa
 
 ## Recommandations Business
 Basé sur notre analyse des données, voici quelques recommandations stratégiques pour les entreprises qui souhaitent attirer et retenir des talents dans le domaine de la science des données :
+
 •	Améliorer la satisfaction au travail : Les entreprises devraient investir davantage dans le développement de carrières internes et augmenter la transparence en matière de mobilité interne.
+
 •	Adapter les offres d'emploi aux attentes des candidats : Les résultats montrent que le télétravail et l'équilibre vie professionnelle/vie personnelle sont désormais des priorités pour une majorité de professionnels. Offrir des politiques de travail flexibles sera un avantage concurrentiel clé.
+
 •	Ajuster les rémunérations : Bien que les aspects non financiers gagnent en importance, le salaire reste un facteur essentiel pour attirer les talents. Les entreprises doivent s'assurer que leurs offres salariales sont compétitives, en particulier dans les régions où les écarts de rémunération sont plus marqués.
+
 •	Faciliter l'accès au domaine des données : Les résultats suggèrent qu’il est difficile pour de nombreux professionnels d’entrer dans ce domaine sans une formation technique. Les entreprises pourraient soutenir des programmes de formation continue, des certifications ou des partenariats avec des établissements éducatifs pour combler ce fossé.
 
 
