@@ -62,7 +62,8 @@ L'enquête montre une répartition démographique intéressante :
 Un tableau de bord interactif a été conçu avec Power BI pour permettre aux parties prenantes de visualiser les résultats clés par pays, genre, profession, et priorité. Ce tableau de bord offre une exploration dynamique des indicateurs clés, tels que la satisfaction professionnelle, les priorités pour un nouvel emploi, et les défis liés à l'entrée dans le domaine des données. Il permet également de filtrer les résultats selon divers critères (âge, sexe, région).
 ![image](https://github.com/user-attachments/assets/1dfe6584-9c00-4ba6-8d22-6ea355a09ba2)
 
-## Recommandations Business
+
+# Recommandations Business
 Basé sur notre analyse des données, voici quelques recommandations stratégiques pour les entreprises qui souhaitent attirer et retenir des talents dans le domaine de la science des données :
 
 •	Améliorer la satisfaction au travail : Les entreprises devraient investir davantage dans le développement de carrières internes et augmenter la transparence en matière de mobilité interne.
