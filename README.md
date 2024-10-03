@@ -34,7 +34,7 @@ L'analyse des données révèle des variations importantes dans la satisfaction 
 
 •	Salaire : Le niveau de satisfaction concernant la rémunération se situe à 5,6/10, indiquant que beaucoup de professionnels estiment que leurs salaires ne reflètent pas leurs compétences ou responsabilités.
 
-3. Difficulté à Entrer dans le Domaine de la Donnée
+3. Difficulté à Entrer dans le Domaine de la Donnée:
 Plus de 50 % des répondants ont trouvé difficile ou très difficile d'accéder à des postes dans la science des données. Cette difficulté est plus prononcée pour les professionnels sans formation technique initiale, ce qui souligne la nécessité d'une formation continue et de certifications spécifiques.
 4. Priorités pour un Nouvel Emploi
 Les principales priorités pour les professionnels à la recherche d'un nouvel emploi sont :
