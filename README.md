@@ -4,8 +4,11 @@ Ce projet d’analyse est basé sur une enquête menée auprès de professionnel
 
 ## Objectifs du Projet
 •	Comprendre la satisfaction professionnelle : Évaluer le niveau de satisfaction des professionnels en matière de gestion, de mobilité interne, et de rémunération.
+
 •	Identifier les défis d'entrée dans le domaine : Analyser les difficultés rencontrées par les nouveaux entrants dans le domaine de la science des données.
+
 •	Analyser les priorités pour un nouvel emploi : Déterminer les facteurs clés qui influencent la recherche d'un nouvel emploi (flexibilité, salaire, télétravail).
+
 •	Fournir des recommandations business : Proposer des stratégies basées sur les attentes des professionnels pour améliorer les politiques de recrutement et de rétention.
 
 ## Outils Utilisés
