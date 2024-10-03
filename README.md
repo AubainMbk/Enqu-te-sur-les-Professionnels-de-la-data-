@@ -20,9 +20,12 @@ Ce projet d’analyse est basé sur une enquête menée auprès de professionnel
 
 ## Démarche Analytique
 1.	Nettoyage des données : Préparation des données d’enquête avec Excel, en traitant les valeurs manquantes et en normalisant les réponses pour assurer une cohérence analytique.
-2.	Exploration et analyse : Utilisation de Power BI pour explorer les données et générer des statistiques descriptives, identifier les tendances de satisfaction et les priorités des professionnels.
-3.	Visualisation des données : Création d'un tableau de bord interactif dans Power BI, permettant une exploration dynamique des résultats par catégorie, par pays et par profession.
-4.	Recommandations : Analyse approfondie des résultats pour fournir des conseils aux entreprises concernant la satisfaction des employés et les stratégies d'amélioration.
+   
+3.	Exploration et analyse : Utilisation de Power BI pour explorer les données et générer des statistiques descriptives, identifier les tendances de satisfaction et les priorités des professionnels.
+   
+5.	Visualisation des données : Création d'un tableau de bord interactif dans Power BI, permettant une exploration dynamique des résultats par catégorie, par pays et par profession.
+   
+7.	Recommandations : Analyse approfondie des résultats pour fournir des conseils aux entreprises concernant la satisfaction des employés et les stratégies d'amélioration.
 
 ## Résultats Clés
 1. Satisfaction Professionnelle
